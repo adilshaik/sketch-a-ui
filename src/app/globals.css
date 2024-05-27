@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.tlui-debug-panel {
+  display: none !important;
+}
+
+.tlui-help-menu {
+  display: none !important;
+}

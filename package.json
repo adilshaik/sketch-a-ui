@@ -9,13 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.11.2",
+    "@headlessui/react": "^2.0.3",
     "@tldraw/tldraw": "^2.1.4",
+    "canvas-size": "^2.0.0",
     "next": "14.2.3",
+    "prismjs": "^1.29.0",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-icons": "^5.2.1"
   },
   "devDependencies": {
+    "@types/canvas-size": "^1.2.2",
     "@types/node": "^20",
+    "@types/prismjs": "^1.26.4",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
